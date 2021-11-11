@@ -3,11 +3,15 @@ package de.hfu;
 import java.util.Scanner;
 
 /**
- * Hello world!
+ * Das ist die Hauptklasse
  *
  */
 public class App 
 {
+	/**
+	 * Das ist die main Methode, hier wird der Code ausgeführt
+	 * @param args
+	 */
     public static void main( String[] args )
     {
         Scanner scanner = new Scanner(System.in);
